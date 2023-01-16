@@ -1,12 +1,7 @@
 JSON Placeholder
 =====================
 
-
 * Retrofit, Okhttp, and Gson practice App.
-
-![Screenshot_1](https://user-images.githubusercontent.com/92341925/200905760-67857c09-8000-474b-b517-b2c5f68842d0.png)
-![Screenshot_2](https://user-images.githubusercontent.com/92341925/200905780-0a6cd27a-8bac-4323-8d26-2fa60f36da36.png)
-![Logcat_Activity_Logs_Screenshot_](https://user-images.githubusercontent.com/92341925/200765954-a3893bf6-3798-4a3a-b5d1-90d5afd3712a.png)
 
 
 Introduction
